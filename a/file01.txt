@@ -1,2 +1,3 @@
 file01 line1
 file01 line2 remote
+file01 line3
